@@ -34,14 +34,6 @@ These projects include internships, university work, and practical experience:
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=povea-dev&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=povea-dev&layout=compact&theme=default" height="160" />
-</p>
-
----
-
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/povea-diaz/](https://www.linkedin.com/in/povea-diaz/)  
 - Email: povea_@outlook.com  
