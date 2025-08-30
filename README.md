@@ -1,12 +1,13 @@
-# Hi, I'm Rocío!
+# Hi, I'm Rocío! 👋
 
-I'm a **Computer and Software Engineer** passionate about building **web and mobile applications**, as well as exploring the use of **AI in real-world solutions**.  
+I'm a Computer and Software Engineer passionate about building web and mobile applications, as well as exploring the use of AI in real-world solutions.  
+I love turning ideas into functional software and learning new technologies to solve problems efficiently.  
 Currently, I'm starting my journey as a **freelance developer** while looking to grow my career in software engineering and technology.
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, Java, JavaScript, Kotlin, Dart  
+- **Languages:** Python, Java, JavaScript, Kotlin, Dart, TypeScript  
 - **Frameworks & Libraries:** Angular, FastAPI, Flutter, TailwindCSS  
 - **Databases:** PostgreSQL, Firebase  
 - **Other:** JWT, NLP, OpenAI API, Git  
@@ -14,6 +15,8 @@ Currently, I'm starting my journey as a **freelance developer** while looking to
 ---
 
 ## 📌 Featured Projects
+These projects include internships, university work, and practical experience:
+
 - **EducaBot (AI + Education)** – Web platform that allows teachers to create custom chatbots trained with academic documents.  
   *FastAPI, Angular, PostgreSQL, TailwindCSS, OpenAI API*  
 
@@ -22,6 +25,12 @@ Currently, I'm starting my journey as a **freelance developer** while looking to
 
 - **Predictive Maintenance (IoT)** – System to anticipate coffee machine failures using data analysis and machine learning.  
   *Python, ML, IoT*  
+
+---
+
+## 🌐 Languages
+- Spanish – Native  
+- English – Intermediate  
 
 ---
 
@@ -34,9 +43,9 @@ Currently, I'm starting my journey as a **freelance developer** while looking to
 ---
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)  
-- Email: your.email@example.com  
+- LinkedIn: [https://www.linkedin.com/in/povea-diaz/](https://www.linkedin.com/in/povea-diaz/)  
+- Email: povea_@outlook.com  
 
 ---
 
-✨ Always open to collaborating on projects related to web, mobile or AI.
+✨ Always open to collaborating on projects related to web, mobile, or AI.
