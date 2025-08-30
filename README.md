@@ -1,31 +1,31 @@
-# Hola, soy [Tu Nombre]
+# Hi, I'm Rocío!
 
-Soy **Ingeniera Civil Informática** recién egresada, apasionada por el desarrollo de **software, IA aplicada y aplicaciones web/móviles**.  
-Actualmente inicio mi camino como **freelancer**, mientras busco crecer profesionalmente en proyectos de desarrollo y tecnología.
-
----
-
-## Tecnologías y herramientas
-- **Lenguajes:** Python, Java, JavaScript, Kotlin, Dart  
-- **Frameworks & Librerías:** Angular, FastAPI, Flutter, TailwindCSS  
-- **Bases de datos:** PostgreSQL, Firebase  
-- **Otros:** JWT, NLP, OpenAI API, Git
+I'm a **Computer and Software Engineer** passionate about building **web and mobile applications**, as well as exploring the use of **AI in real-world solutions**.  
+Currently, I'm starting my journey as a **freelance developer** while looking to grow my career in software engineering and technology.
 
 ---
 
-## Proyectos destacados
-- **EducaBot (IA + Educación)** – Plataforma web que permite a docentes crear chatbots personalizados entrenados con documentos académicos.  
+## 🛠️ Skills & Tools
+- **Languages:** Python, Java, JavaScript, Kotlin, Dart  
+- **Frameworks & Libraries:** Angular, FastAPI, Flutter, TailwindCSS  
+- **Databases:** PostgreSQL, Firebase  
+- **Other:** JWT, NLP, OpenAI API, Git  
+
+---
+
+## 📌 Featured Projects
+- **EducaBot (AI + Education)** – Web platform that allows teachers to create custom chatbots trained with academic documents.  
   *FastAPI, Angular, PostgreSQL, TailwindCSS, OpenAI API*  
 
-- **Turismo Colbún App** – Aplicación móvil para promover el turismo local, con rutas interactivas y multimedia.  
+- **Tourism Colbún App** – Mobile application to promote local tourism, featuring interactive routes and multimedia content.  
   *Flutter, Dart, Firebase*  
 
-- **Mantenimiento Predictivo (IoT)** – Sistema para anticipar fallas en máquinas de café mediante análisis de datos e IA.  
+- **Predictive Maintenance (IoT)** – System to anticipate coffee machine failures using data analysis and machine learning.  
   *Python, ML, IoT*  
 
 ---
 
-## Estadísticas
+## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=povea-dev&show_icons=true&theme=default" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=povea-dev&layout=compact&theme=default" height="160" />
@@ -33,6 +33,10 @@ Actualmente inicio mi camino como **freelancer**, mientras busco crecer profesio
 
 ---
 
-## Contacto
-- LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)  
-- Email: tuemail@gmail.com  
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)  
+- Email: your.email@example.com  
+
+---
+
+✨ Always open to collaborating on projects related to web, mobile or AI.
