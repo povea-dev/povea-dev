@@ -21,8 +21,10 @@ Currently, I'm starting my journey as a **freelance developer** while looking to
 ## 📌 Featured Projects
 These projects include internships, university work and practical experience:
 
-- **PBL-IA Classroom (AI + PBL)** - University platform that integrates Generative AI to enhance Problem-Based Learning.
-  *React, Vite, Firebase, TailwindCSS, OpenAI, FastAPI, NLP*
+- **PBL-IA Classroom (AI + PBL)** – University platform that integrates Generative AI to enhance Problem-Based Learning.  
+<br>
+*React, Vite, Firebase, TailwindCSS, OpenAI, FastAPI, NLP*
+
 
 - **Tourism Colbún App** – Mobile application to promote local tourism, featuring interactive routes and multimedia content.  
   *Flutter, Dart, Firebase*  
